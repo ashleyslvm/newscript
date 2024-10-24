@@ -1,4 +1,4 @@
 getgenv().Games = {
-  [18901165922] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Pet%20GO.lua",
-  [18901165922] = "https://raw.githubusercontent.com/ashleyslvm/rngscript/refs/heads/main/ash%20first%20script",
+  [18901165922] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Pet%20GO.lua", -- Pet GO
+  [18901165922] = "https://raw.githubusercontent.com/ashleyslvm/rngscript/refs/heads/main/ash%20first%20script", -- Pet GO
 }
